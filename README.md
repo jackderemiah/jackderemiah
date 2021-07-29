@@ -1,5 +1,5 @@
 - hey i'm jack
-- working on some stuff
+- working on a thing or two
 - :)
 
 <!---
