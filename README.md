@@ -1,6 +1,4 @@
-- hey i'm jack
-- working on a thing or two
-- :)
+- hello
 
 <!---
 jackderemiah/jackderemiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
