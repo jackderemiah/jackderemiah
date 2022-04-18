@@ -1,8 +1,4 @@
 
-jackderemiah@duck.com
-
-
-https://jackderemiah.org
 
 <!---
 jackderemiah/jackderemiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
