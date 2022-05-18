@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
   - 🧪 I'm interested in web and iOS development 
 
-  - 🌱 I'm currently learning networks
+  - 🌱 I'm currently learning Blender and networks
