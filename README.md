@@ -5,11 +5,11 @@ jackderemiah/jackderemiah is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-😎 hey! I'm @jackderemiah 
+ hey! I'm @jackderemiah 
 
-  - 🧪 I'm interested in web and iOS development 
+  -  I'm interested in web and iOS development 
 
-  - 🌱 I'm currently learning Blender and php
+  -  I'm currently learning Blender and php
   
   
   
