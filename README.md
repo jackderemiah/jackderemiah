@@ -9,10 +9,13 @@ You can click the Preview link to take a look at your changes.
 
   -  I'm interested in web and iOS development 
 
-  -  I'm currently learning Blender and php
+  -  I'm currently learning Blender and Go
+
+  - Always interested in helping with new, fun projects! Feel free to contact me
+
   
-  
-  
+https://www.jackderemiah.org    
+
 📧 jackderemiah@duck.com
 
 
