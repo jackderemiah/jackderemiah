@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   Feel free to contact me
 
   
-https://www.jackderemiah.org    
+http://www.jackderemiah.org    
 
 📧 jackderemiah@duck.com
 
