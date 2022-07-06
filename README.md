@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 
   -  I'm currently learning Blender and Go
 
-  - Always interested in helping with new, fun projects! Feel free to contact me
+  - Always interested in helping with fun and new projects! 
+  
+  Feel free to contact me
 
   
 https://www.jackderemiah.org    
