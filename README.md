@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 
   -  I'm interested in iOS/web development 
 
-  -  I'm currently learning Blender
+  -  currently learning Blender
 
-  - Always interested in helping with new projects! 
+  - always interested in helping with new projects! 
   
   Feel free to contact me
 
