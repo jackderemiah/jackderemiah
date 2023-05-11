@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
  hello
 
-  -  I'm interested in iOS/web development 
+  -  I'm interested in iOS / backend web development 
 
   -  currently learning Blender
 
